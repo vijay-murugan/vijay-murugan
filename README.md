@@ -9,12 +9,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on exciting web and mobile applications
-- 🌱 I'm currently learning **Cloud Architecture & DevOps**
+I am a Master's in Artificial Intelligence(Computer Science) student at Texas A&M University-College Station. Previously, I was a Backend Java-Python developer at GoTo for a period of over two years. 
+
+Actively seeking Summer 2026 Internships (May-Aug) and Co-ops (July-Dec) for the roles of AI Engineer, Backend Developer, and Full-Stack Developer.
+
+
+- 🔭 I'm currently working on **AI projects and full-stack applications**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, and System Design**
-- 📫 How to reach me: **check my socials below**
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
+- 💬 Ask me about **Backend Development, APIs, and System Design**
 
 ---
 
@@ -22,12 +24,13 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
 </p>
 
 ### Frontend
@@ -43,17 +46,16 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 ### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io" alt="DynamoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 ### Cloud & DevOps
@@ -65,12 +67,24 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/S3-5694C3?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="ec2"/>
+  <img src="https://img.shields.io" alt="CloudWatch" />
+  <img src="https://img.shields.io" alt="CloudFormation"/>
+  <img src="https://img.shields.io" alt="Lambda" />
+<img src="https://img.shields.io" alt="SageMaker" />
+  
+</p>
+
 ### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io" alt="PyCharm" />
+  <img src="https://img.shields.io" alt="Cursor" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
