@@ -46,14 +46,13 @@ Actively seeking Summer 2026 Internships (May-Aug) and Co-ops (July-Dec) for the
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io" alt="FastAPI"/>
+  <img src="https://img.shields.io](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
 ### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io" alt="DynamoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
@@ -67,24 +66,13 @@ Actively seeking Summer 2026 Internships (May-Aug) and Co-ops (July-Dec) for the
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/S3-5694C3?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="ec2"/>
-  <img src="https://img.shields.io" alt="CloudWatch" />
-  <img src="https://img.shields.io" alt="CloudFormation"/>
-  <img src="https://img.shields.io" alt="Lambda" />
-<img src="https://img.shields.io" alt="SageMaker" />
-  
-</p>
+
 
 ### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io" alt="PyCharm" />
-  <img src="https://img.shields.io" alt="Cursor" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
@@ -106,13 +94,10 @@ Actively seeking Summer 2026 Internships (May-Aug) and Co-ops (July-Dec) for the
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vijay-murugan" target="_blank">
+  <a href="https://www.linkedin.com/in/vijaymurugan-as/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/vijay-murugan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:vijay.murugan@email.com">
+  <a href="mailto:vijay.muruganas@tamu.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/vijay-murugan" target="_blank">
