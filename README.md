@@ -11,7 +11,7 @@
 
 I am a Master's in Artificial Intelligence(Computer Science) student at Texas A&M University-College Station. Previously, I was a Backend Java-Python developer at GoTo for a period of over two years. 
 
-Actively seeking Summer 2026 Internships (May-Aug) and Co-ops (July-Dec) for the roles of AI Engineer, Backend Developer, and Full-Stack Developer.
+Actively seeking Full-Time roles from Summer, 2027 for the roles of AI Engineer, Backend Developer, and Full-Stack Developer.
 
 
 - 🔭 I'm currently working on **AI projects and full-stack applications**
